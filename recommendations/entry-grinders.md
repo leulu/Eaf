@@ -9,7 +9,7 @@ nav_order: 5
 If you’re reading this, welcome to espresso! This rabbithole can be as deep or shallow as you want it, but it’s always nice to make educated choices about the equipment you’ve chosen. If you’ve been on the subreddit seeing the endless equipment questions, you’ve probably seen the following phrase - “The grinder is just as important as the machine”. I’ll just go ahead and confirm right now, this is true. The grinder is more important than the machine once you hit a certain basic capability of machine (Around the unpressurized Bambino / Gaggia Classic mark).
 
 ### Marketing
-You’ll find cheaper grinders advertising they can grind for espresso; they can’t. There is a distinction to be made between pressurized and unpressurized espresso, as in an unpressurized basket there is no grinder under $100 new that will grind fine or consistently enough to provide adequate resistance to flow. Pressurized baskets are also referred to as “dual wall” baskets.
+You’ll find cheaper grinders advertising they can grind for espresso; they can’t. There is a distinction to be made between pressurized and unpressurized espresso, as in an unpressurized basket there is no electric grinder under $100 new that will grind fine or consistently enough to provide adequate resistance to flow. Pressurized baskets are also referred to as “dual wall” baskets.
 
 ### Adjustment
 In order to change extraction and flow rate in espresso, it is required to make grind size changes. The finer you grind, the slower the shot (most of the time). Small changes in grind can have a drastic effect on extraction time, in the range of 5-10 seconds on, say a Baratza Encore. Capable espresso grinders have “microsteps” or “stepless grind adjustment” in order to allow for minute adjustment.
@@ -22,18 +22,21 @@ If you bought an Encore with the intention of using it for espresso, you can sti
 
 [Encore/Virtuoso Espresso Calibration Video](https://youtu.be/tvPmA2laBzM "Encore/Virtuoso Espresso Calibration Video")
 
-## Recommended First Time Espresso Grinders
-These will all do a great job and compete above their weight-class in terms of grind quality.
 
-### Eureka Mignon Manuale: $266 from EspressoCoffeeShop
-- 50mm Flat burr
-- no timer
-- stepless
-- ~1g retention
+## Manual Grinder Reccomendations
+Manually grinding for espresso can be taxing and take some time (1-2mins) and can get tedious. But if you goal is quality and speed is not a concern it is very hard to be at the value for money in this category. Espresso capable manual grinders can range from $60-$1000.
 
-**Pros:** quiet, reliable, switchable from brew to espresso
+### Kingrinder K6: $109
+- 48mm (outer) conical burrs
+- external adjustment
+- 16microns per click
 
-**Cons:** no timer, eureka adjustment is hard to switch from espresso to brew, if bought from EspressoCoffeeShop outside Europe this is a grey market unit and may have warranty challenges.
+### 1zpresso K-Ultra
+- 48mm (outer) conical burr
+- external adjustment
+- higher-clarity burr (relative to J series).
+- Foldable handle
+- 
 
 ### 1zpresso JX Pro: $159 direct from 1zpresso
 - 48mm Conical burr
@@ -42,9 +45,36 @@ These will all do a great job and compete above their weight-class in terms of g
 - small steps
 - 45 seconds to 1 minute for a 14-18g dose
 
-**Pros:** Quiet, reliable, switchable from brew to espresso
 
-**Cons:** Hand-grinding can be too much for some
+
+## Recommended First Time Electric Espresso Grinders
+These will all do a great job and compete above their weight-class in terms of grind quality.
+
+### Starseeker E55 Pro: $269 on Amazon
+- 55mm (outer) conical burr
+- Stepless
+- Low retention
+
+**Pros:** Fast, ionizer, easy to switch brew modes
+**Cons:** <need to find warranty info>
+
+### Baratza Encore ESP: $200 on Amazon
+- ??mm (outer) conical burr
+- Stepped
+- hopper based
+
+**Pros:** Single dosing requires bellows
+**Cons:** No Timer
+
+
+### Shardor/Mokkom 64mm: $199
+- 64mm Flat Burr
+- Stepless
+- Medium-Low retention
+
+**Pros:** Cheapest 64mm grinder, can swap in other burrs (e.g. SSP MP etc)
+**Cons:** <need to find warranty info>, Loud, Poor build quality
+
 
 ### Baratza Sette 270: $300 refurb from Baratza
 - 40mm Etzinger Conical Burr
@@ -55,6 +85,21 @@ These will all do a great job and compete above their weight-class in terms of g
 **Pros:** Fast af, good grind quality, precise timer, doesn't popcorn much
 
 **Cons:** Gearbox issues, ear-destroyer, shims needed over lifespan
+
+
+Delete Below??
+### Eureka Mignon Manuale: $266 from EspressoCoffeeShop
+- 50mm Flat burr
+- no timer
+- stepless
+- ~1g retention
+
+**Pros:** quiet, reliable, switchable from brew to espresso
+
+**Cons:** no timer, eureka adjustment is hard to switch from espresso to brew, if bought from EspressoCoffeeShop outside Europe this is a grey market unit and may have warranty challenges.
+
+
+
 
 ### Baratza Vario: $300 refurb from Baratza
 - 54mm Mahlkonig Flat burr
