@@ -25,7 +25,7 @@ These machines are the least expensive home machines and are using the pressure 
 These machines are the industry standard for modern espresso. Instead of relying on steam to move the water, they use an electric pump (vibratory or rotary) to force water through the coffee puck.
 
 ### Thermoblock
-These machines will tend to be the most affordable of the pump driven machines, often in the range of $120 - $700.
+These machines will tend to be the most affordable of the pump driven machines, often in the range of $120 - $700. Subtypes include Thermocoil (steel tube embedded in a block) and Thermojets (PCB with flow through heating). High-end Thermoblock machines also exist (e.g. Ascaso).
 * Pros:
     * Fast heat up
     * Found at many department stores / Best Buy
@@ -34,9 +34,23 @@ These machines will tend to be the most affordable of the pump driven machines, 
 * Cons:
     * Can not steam milk and brew at the same time, though the transition from one to another will be faster than the single boiler, dual use machines
     * Accessories may be harder to find as these commonly do not use a 58mm portafilter
+    * On-Demand power draw may be higher than boiler machines.
+
+### Portable Espresso Machines
+These have recently expanded in capability and design with being able to self heat as well as pump water. Examples include the IKAPE k2 and Outin Nano. Also quite cheap with prices ranging from $120-$400.
+
+* Pros:
+   * USB Powered
+   * Some can use Non-pressurized Baskets (Ikape K2)
+   * Non-electric ones can pressure profile (Picopresso)
+   * Some can use Coffee Capsules (a pro for some)
+* Cons:
+   * Some models only work with pressurized baskets (Outin Nano)
+   * No ability to steam milk
+   * Limited number of shots can be heated before charging
 
 ### Single Boiler Double Use
-These machines will be the more common machines seen at home. They will have a single boiler that is used for both steam and brew water. There is typically a switch that changes the temperature of the boiler between brewing and steaming. These machines will tend to be in the $450-$1000 range.
+These machines will be the more common machines seen at home. They will have a single boiler that is used for both steam and brew water. There is typically a switch that changes the temperature of the boiler between brewing and steaming. These machines will tend to be in the $450-$1100 range.
 
 * Pros:
     * Great for people who just want straight espresso shots
@@ -54,11 +68,11 @@ These machines use a heat exchange system with a single boiler. The boiler is ke
     * Ability to steam and brew at the same time
 * Cons:
     * Due to how the heat exchange system works a cooling flush is required on most machines of this type to cool the brewhead of the machine down to brew temps to prevent over-extraction of the bean
-        * Some modern PID-controlled HX machines (Like the Lelit MaraX) reduce or eliminate this requirement
+        * Some modern PID-controlled HX machines (Like the Lelit MaraX) reduce this requirement but do not eliminate it
     * Due to the cooling flush required on most of these machines it is recommended that you add a group head thermometer ($110)
         * This limits adding a flow control device to the machine
 
-### Double Boiler
+### Double/Dual Boiler
 These machines have two boilers, one for steam and one for brew. Each boiler is held at the proper temperature for its intended purpose. These are often the higher end machines for home use, often costing $2500+, though there are some exceptions to that price (Breville Dual Boiler, Lelit Elizabeth).
 
 * Pros:
@@ -83,6 +97,7 @@ On a manual lever machine, the user is the pump. You apply physical force to the
     * Steep learning curve; requires significant practice to achieve consistent results
     * Physical effort is required to pull each shot
     * Can be difficult to reproduce the exact same shot twice without external pressure gauges
+    * Some can require signficant preheating
 
 ### Spring
 These machines use a heavy-duty internal spring to provide the brewing pressure. The user pulls the lever to compress the spring and "cock" the machine; when released, the spring provides a consistent, declining pressure profile. These are typically high-end machines in the $2,000 - $5,000 range.
